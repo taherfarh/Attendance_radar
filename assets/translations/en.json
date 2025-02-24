@@ -1,0 +1,23 @@
+{
+    "courses":"Courses",
+    "newcourse":"New course",
+    "trainer(S)information":"Trainer(S) information",
+    "numberofsession":"Number of session",
+    "next/previoussessiondatetime":"Next/Previous session datetime",
+    "sessiondurationperminutes":"Session duration per minutes",
+    "scanforattendancemarker":"Scan for attendance marker",
+    "emitattendancemarker":"Emit attendance marker",
+    "unsubscribefromsession":"Unsubscribe from session",
+    "numberofstudents":"Number of students ",
+    "manuallymanageattendance":"Manually manage attendance",
+    "numberofmarkedattendancesforasession":"Number of marked attendances for asession",
+    "markedasapresent":"Marked as apresent",
+    "markedaslate":"Marked as late",
+    "markedasexecused":"Marked as execused",
+    "alotofwords":"Do note that late and execused attendance are not considerd as present in various of things like statistics , presence calculation , etc...",
+    "numberofcreditsleft":"Number of credits left",
+    "help":"Help",
+    "setting":"Setting"
+  
+
+}

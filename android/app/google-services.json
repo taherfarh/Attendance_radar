@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25746361609",
+    "project_id": "attendance-management-b21b6",
+    "storage_bucket": "attendance-management-b21b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25746361609:android:f7b2b4aef93f6251e657d8",
+        "android_client_info": {
+          "package_name": "com.firebasetest.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr9i5_IcjRWPtMRqRcYFuQ2csLvbzb8WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

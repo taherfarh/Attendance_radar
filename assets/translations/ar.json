@@ -1,0 +1,21 @@
+{
+    "courses":"دورات",
+    "newcourse":"دورات جديده",
+    "trainer(S)information":"معلومات المدرب (المدربين)",
+    "numberofsession":"عدد الجلسات",
+    "next/previoussessiondatetime":"تاريخ الجلسة التالية/السابقة",
+    "sessiondurationperminutes":"مدة الجلسة لكل دقيقة",
+    "scanforattendancemarker":"المسح الضوئي لعلامة الحضور",
+    "emitattendancemarker":"تنبعث منها علامة الحضور",
+    "unsubscribefromsession":"إلغاء الاشتراك في الجلسة",
+    "numberofstudents":"عدد الطلاب ",
+    "manuallymanageattendance":"إدارة الحضور يدويا",
+    "numberofmarkedattendancesforasession":"عدد الحضور الملحوظ للجلسة",
+    "markedasapresent":"تم وضع علامة عليه كحاضر",
+    "markedaslate":"تم وضع علامة متأخر",
+    "markedasexecused":"تم وضع علامة على أنه تنفيذي",
+    "alotofwords":"لاحظ أن الحضور المتأخر والتنفيذي لا يعتبر حاضرا في العديد من الأشياء مثل الإحصائيات وحساب الحضور وما إلى ذلك ...",
+    "numberofcreditsleft":"عدد الاعتمادات المتبقية",
+    "help":"المساعده",
+    "setting":"الاعدادات"
+}
